@@ -1,0 +1,35 @@
+Data Analyst — Business Intelligence
+
+About the role:
+We are seeking a detail-oriented Data Analyst to join our Business
+Intelligence team. You will transform raw data into actionable
+insights, build dashboards, and work with stakeholders across the
+business to drive data-informed decision-making.
+
+Responsibilities:
+- Collect, clean, and analyse large datasets from multiple sources.
+- Build and maintain dashboards and reports using BI tools.
+- Identify trends, anomalies, and opportunities in data.
+- Present findings clearly to both technical and non-technical
+  stakeholders.
+- Collaborate with engineering teams to improve data pipelines and
+  data quality.
+
+Requirements:
+- Strong proficiency in SQL (complex queries, window functions, CTEs).
+- Experience with Python for data analysis (pandas, numpy, matplotlib).
+- Familiarity with BI tools: Tableau, Power BI, or Looker.
+- Solid understanding of statistics and data visualisation principles.
+- Strong attention to detail and problem-solving skills.
+- Excellent written and verbal communication skills.
+
+Nice to have:
+- Experience with cloud data warehouses (BigQuery, Snowflake, Redshift).
+- Knowledge of dbt for data transformation.
+- Exposure to machine learning concepts.
+- Experience with A/B testing and experimentation frameworks.
+
+What we offer:
+- Collaborative and data-driven culture.
+- Mentorship from senior data professionals.
+- Clear career growth path into data science or data engineering.

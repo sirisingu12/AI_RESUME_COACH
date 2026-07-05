@@ -1,0 +1,34 @@
+Software Engineer — Machine Learning Platform
+
+About the role:
+We are looking for a Software Engineer to join our ML Platform team.
+You will build and maintain scalable machine learning infrastructure,
+work closely with data scientists to productionise models, and improve
+developer tooling across the organisation.
+
+Responsibilities:
+- Design, build, and deploy ML pipelines using Python and cloud-native tools.
+- Maintain and improve our feature store, model registry, and serving layer.
+- Collaborate with data scientists to transition research models into production.
+- Write clean, well-tested code and participate in code reviews.
+- Monitor model performance and data quality in production.
+
+Requirements:
+- Proficiency in Python (3+ years).
+- Experience with machine learning frameworks such as PyTorch or TensorFlow.
+- Familiarity with MLOps tools: MLflow, Kubeflow, or similar.
+- Experience with SQL and at least one NoSQL database.
+- Solid understanding of REST APIs and microservices architecture.
+- Experience with Docker and Kubernetes.
+- Strong communication and collaboration skills.
+
+Nice to have:
+- Experience with vector databases (FAISS, Pinecone, Weaviate).
+- Familiarity with LLM fine-tuning or RAG pipelines.
+- Knowledge of CI/CD pipelines (GitHub Actions, Jenkins).
+- Cloud experience: AWS, GCP, or Azure.
+
+What we offer:
+- Competitive salary and equity.
+- Flexible remote-first work environment.
+- Learning and development budget.
